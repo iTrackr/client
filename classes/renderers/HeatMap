@@ -1,0 +1,3 @@
+class HeatMapRenderer extends DepMan.renderer "Base"
+
+module.exports = HeatMapRenderer

@@ -1,0 +1,13 @@
+<nav id="itmenuwindow">
+	<li id="ip-select-container">
+		<select id="ip-select">
+			
+		</select>
+	</li>
+	<li id="scroll-average"><span></span>% Average Scroll</li>
+	<li id="click-heat">Click Heatmap</li>
+	<li id="move-heat">Move Heatmap</li>
+	<li id="hover-heat">Hover Heatmap</li>
+	<li id="optimised-heat">Optimised Heatmap</li>
+	<li id="remove-heat">Remove Heatmap</li>
+</nav>

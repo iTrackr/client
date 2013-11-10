@@ -1,0 +1,10 @@
+<section ng-controller='Modal' id='modal-window'>
+	<section>
+	<header id="modal-title-area"></header>
+	  <nav>
+		<li id="modal-close-button"><i class="icon-remove"></i></li>
+		<li id="modal-fullscren-button"><i class="icon-fullscreen"></i></li>
+	  </nav>
+	  <article id="modal-content-area"></article>
+	</section>
+</section>
